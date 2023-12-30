@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 9290719ace64a0a40aaa15bfac5ad1f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FK_LarmJoint
+    100004: FK_LforearmJoint
+    100006: FK_LhandJoint
+    100008: FK_LshoulderJoint
+    100010: FK_RarmJoint
+    100012: FK_RforearmJoint
+    100014: FK_RhandJoint
+    100016: FK_RshoulderJoint1
+    100018: group1
+    100020: headCTRL
+    100022: headCTRL 1
+    100024: hipsCTRL
+    100026: IK_LarmJoint
+    100028: IK_LelbowCTRL
+    100030: IK_LforearmJoint
+    100032: IK_Lhand
+    100034: IK_LhandJoint
+    100036: IK_Lshoulder
+    100038: IK_LshoulderJoint
+    100040: IK_RarmJoint
+    100042: IK_RelbowCTRL
+    100044: IK_RforearmJoint
+    100046: IK_Rhand
+    100048: IK_RhandJoint
+    100050: IK_Rshoulder
+    100052: IK_RshoulderJoint1
+    100054: ikHandle10
+    100056: ikHandle11
+    100058: ikHandle7
+    100060: ikHandle8
+    100062: ikHandle9
+    100064: index1
+    100066: index1 1
+    100068: index2
+    100070: index2 1
+    100072: index3
+    100074: index3 1
+    100076: jawCTRL
+    100078: joint1
+    100080: joint10
+    100082: joint100
+    100084: joint100 1
+    100086: joint101
+    100088: joint101 1
+    100090: joint102
+    100092: joint102 1
+    100094: joint102 2
+    100096: joint103
+    100098: joint103 1
+    100100: joint104
+    100102: joint104 1
+    100104: joint105
+    100106: joint105 1
+    100108: joint106
+    100110: joint106 1
+    100112: joint106 2
+    100114: joint107
+    100116: joint107 1
+    100118: joint108
+    100120: joint108 1
+    100122: joint109
+    100124: joint109 1
+    100126: joint110
+    100128: joint110 1
+    100130: joint110 2
+    100132: joint111
+    100134: joint111 1
+    100136: joint112
+    100138: joint112 1
+    100140: joint113
+    100142: joint113 1
+    100144: joint114
+    100146: joint114 1
+    100148: joint114 2
+    100150: joint115
+    100152: joint115 1
+    100154: joint116
+    100156: joint116 1
+    100158: joint117
+    100160: joint117 1
+    100162: joint117 2
+    100164: joint15
+    100166: joint15 1
+    100168: joint16
+    100170: joint16 1
+    100172: joint17
+    100174: joint17 1
+    100176: joint18
+    100178: joint18 1
+    100180: joint18 2
+    100182: joint19
+    100184: joint19 1
+    100186: joint2
+    100188: joint20
+    100190: joint20 1
+    100192: joint21
+    100194: joint21 1
+    100196: joint22
+    100198: joint22 1
+    100200: joint22 2
+    100202: joint23
+    100204: joint23 1
+    100206: joint24
+    100208: joint24 1
+    100210: joint25
+    100212: joint25 1
+    100214: joint26
+    100216: joint26 1
+    100218: joint26 2
+    100220: joint27
+    100222: joint27 1
+    100224: joint28
+    100226: joint28 1
+    100228: joint29
+    100230: joint29 1
+    100232: joint3
+    100234: joint30
+    100236: joint30 1
+    100238: joint30 2
+    100240: joint31
+    100242: joint31 1
+    100244: joint32
+    100246: joint32 1
+    100248: joint33
+    100250: joint33 1
+    100252: joint33 2
+    100254: joint4
+    100256: joint5
+    100258: joint57
+    100260: joint58
+    100262: joint59
+    100264: joint6
+    100266: joint60
+    100268: joint61
+    100270: joint62
+    100272: joint63
+    100274: joint64
+    100276: joint65
+    100278: joint66
+    100280: joint67
+    100282: joint68
+    100284: joint69
+    100286: joint7
+    100288: joint70
+    100290: joint71
+    100292: joint72
+    100294: joint73
+    100296: joint74
+    100298: joint75
+    100300: joint76
+    100302: joint77
+    100304: joint78
+    100306: joint79
+    100308: joint8
+    100310: joint80
+    100312: joint81
+    100314: joint82
+    100316: joint83
+    100318: joint84
+    100320: joint85
+    100322: joint86
+    100324: joint87
+    100326: joint88
+    100328: joint89
+    100330: joint9
+    100332: joint99
+    100334: joint99 1
+    100336: LarmJoint
+    100338: LforearmJoint
+    100340: LhandJoint
+    100342: LshoulderJoint
+    100344: middle1
+    100346: middle1 1
+    100348: middle2
+    100350: middle2 1
+    100352: middle3
+    100354: middle3 1
+    100356: pCube20
+    100358: pCube21
+    100360: pinky1
+    100362: pinky1 1
+    100364: pinky2
+    100366: pinky2 1
+    100368: pinky3
+    100370: pinky3 1
+    100372: polySurface3
+    100374: polySurface4
+    100376: RarmJoint
+    100378: RforearmJoint
+    100380: RhandJoint
+    100382: ring1
+    100384: ring1 1
+    100386: ring2
+    100388: ring2 1
+    100390: ring3
+    100392: ring3 1
+    100394: RshoulderJoint
+    100396: SeanPennyChapo4:polySurface4
+    100398: thumb1
+    100400: thumb1 1
+    100402: thumb2
+    100404: thumb2 1
+    400000: //RootNode
+    400002: FK_LarmJoint
+    400004: FK_LforearmJoint
+    400006: FK_LhandJoint
+    400008: FK_LshoulderJoint
+    400010: FK_RarmJoint
+    400012: FK_RforearmJoint
+    400014: FK_RhandJoint
+    400016: FK_RshoulderJoint1
+    400018: group1
+    400020: headCTRL
+    400022: headCTRL 1
+    400024: hipsCTRL
+    400026: IK_LarmJoint
+    400028: IK_LelbowCTRL
+    400030: IK_LforearmJoint
+    400032: IK_Lhand
+    400034: IK_LhandJoint
+    400036: IK_Lshoulder
+    400038: IK_LshoulderJoint
+    400040: IK_RarmJoint
+    400042: IK_RelbowCTRL
+    400044: IK_RforearmJoint
+    400046: IK_Rhand
+    400048: IK_RhandJoint
+    400050: IK_Rshoulder
+    400052: IK_RshoulderJoint1
+    400054: ikHandle10
+    400056: ikHandle11
+    400058: ikHandle7
+    400060: ikHandle8
+    400062: ikHandle9
+    400064: index1
+    400066: index1 1
+    400068: index2
+    400070: index2 1
+    400072: index3
+    400074: index3 1
+    400076: jawCTRL
+    400078: joint1
+    400080: joint10
+    400082: joint100
+    400084: joint100 1
+    400086: joint101
+    400088: joint101 1
+    400090: joint102
+    400092: joint102 1
+    400094: joint102 2
+    400096: joint103
+    400098: joint103 1
+    400100: joint104
+    400102: joint104 1
+    400104: joint105
+    400106: joint105 1
+    400108: joint106
+    400110: joint106 1
+    400112: joint106 2
+    400114: joint107
+    400116: joint107 1
+    400118: joint108
+    400120: joint108 1
+    400122: joint109
+    400124: joint109 1
+    400126: joint110
+    400128: joint110 1
+    400130: joint110 2
+    400132: joint111
+    400134: joint111 1
+    400136: joint112
+    400138: joint112 1
+    400140: joint113
+    400142: joint113 1
+    400144: joint114
+    400146: joint114 1
+    400148: joint114 2
+    400150: joint115
+    400152: joint115 1
+    400154: joint116
+    400156: joint116 1
+    400158: joint117
+    400160: joint117 1
+    400162: joint117 2
+    400164: joint15
+    400166: joint15 1
+    400168: joint16
+    400170: joint16 1
+    400172: joint17
+    400174: joint17 1
+    400176: joint18
+    400178: joint18 1
+    400180: joint18 2
+    400182: joint19
+    400184: joint19 1
+    400186: joint2
+    400188: joint20
+    400190: joint20 1
+    400192: joint21
+    400194: joint21 1
+    400196: joint22
+    400198: joint22 1
+    400200: joint22 2
+    400202: joint23
+    400204: joint23 1
+    400206: joint24
+    400208: joint24 1
+    400210: joint25
+    400212: joint25 1
+    400214: joint26
+    400216: joint26 1
+    400218: joint26 2
+    400220: joint27
+    400222: joint27 1
+    400224: joint28
+    400226: joint28 1
+    400228: joint29
+    400230: joint29 1
+    400232: joint3
+    400234: joint30
+    400236: joint30 1
+    400238: joint30 2
+    400240: joint31
+    400242: joint31 1
+    400244: joint32
+    400246: joint32 1
+    400248: joint33
+    400250: joint33 1
+    400252: joint33 2
+    400254: joint4
+    400256: joint5
+    400258: joint57
+    400260: joint58
+    400262: joint59
+    400264: joint6
+    400266: joint60
+    400268: joint61
+    400270: joint62
+    400272: joint63
+    400274: joint64
+    400276: joint65
+    400278: joint66
+    400280: joint67
+    400282: joint68
+    400284: joint69
+    400286: joint7
+    400288: joint70
+    400290: joint71
+    400292: joint72
+    400294: joint73
+    400296: joint74
+    400298: joint75
+    400300: joint76
+    400302: joint77
+    400304: joint78
+    400306: joint79
+    400308: joint8
+    400310: joint80
+    400312: joint81
+    400314: joint82
+    400316: joint83
+    400318: joint84
+    400320: joint85
+    400322: joint86
+    400324: joint87
+    400326: joint88
+    400328: joint89
+    400330: joint9
+    400332: joint99
+    400334: joint99 1
+    400336: LarmJoint
+    400338: LforearmJoint
+    400340: LhandJoint
+    400342: LshoulderJoint
+    400344: middle1
+    400346: middle1 1
+    400348: middle2
+    400350: middle2 1
+    400352: middle3
+    400354: middle3 1
+    400356: pCube20
+    400358: pCube21
+    400360: pinky1
+    400362: pinky1 1
+    400364: pinky2
+    400366: pinky2 1
+    400368: pinky3
+    400370: pinky3 1
+    400372: polySurface3
+    400374: polySurface4
+    400376: RarmJoint
+    400378: RforearmJoint
+    400380: RhandJoint
+    400382: ring1
+    400384: ring1 1
+    400386: ring2
+    400388: ring2 1
+    400390: ring3
+    400392: ring3 1
+    400394: RshoulderJoint
+    400396: SeanPennyChapo4:polySurface4
+    400398: thumb1
+    400400: thumb1 1
+    400402: thumb2
+    400404: thumb2 1
+    2100000: lambert1
+    4300000: pCube20
+    4300002: polySurface3
+    4300004: polySurface4
+    4300006: SeanPennyChapo4:polySurface4
+    4300008: pCube21
+    9500000: //RootNode
+    13700000: pCube20
+    13700002: pCube21
+    13700004: polySurface3
+    13700006: polySurface4
+    13700008: SeanPennyChapo4:polySurface4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 323be2ce09ee34c019c5165f33cc3780
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: clav
+    100002: column
+    100004: f_head
+    100006: finga
+    100008: fingaa
+    100010: fingb
+    100012: fingba
+    100014: fingbb
+    100016: fingc
+    100018: fingcb
+    100020: head
+    100022: Hips
+    100024: joint23
+    100026: joint24
+    100028: joint25
+    100030: joint26
+    100032: joint27
+    100034: joint28
+    100036: joint29
+    100038: joint30
+    100040: joint31
+    100042: joint32
+    100044: joint33
+    100046: joint34
+    100048: joint35
+    100050: joint36
+    100052: joint37
+    100054: joint38
+    100056: joint39
+    100058: joint40
+    100060: joint41
+    100062: joint42
+    100064: joint43
+    100066: joint44
+    100068: left_arm
+    100070: left_arm_p
+    100072: left_ball
+    100074: left_feet
+    100076: left_fin
+    100078: left_leg
+    100080: leftbina
+    100082: leftbinaa
+    100084: leftbinca
+    100086: leftfinb
+    100088: leftfinbc
+    100090: leftfinc
+    100092: nurbsCircle15
+    100094: nurbsCircle16
+    100096: pleft_arm
+    100098: pleft_hand
+    100100: pLeft_leg
+    100102: pright_leg
+    100104: right_arm
+    100106: right_ball
+    100108: right_foot
+    100110: right_hand
+    100112: right_leg
+    100114: //RootNode
+    400000: clav
+    400002: column
+    400004: f_head
+    400006: finga
+    400008: fingaa
+    400010: fingb
+    400012: fingba
+    400014: fingbb
+    400016: fingc
+    400018: fingcb
+    400020: head
+    400022: Hips
+    400024: joint23
+    400026: joint24
+    400028: joint25
+    400030: joint26
+    400032: joint27
+    400034: joint28
+    400036: joint29
+    400038: joint30
+    400040: joint31
+    400042: joint32
+    400044: joint33
+    400046: joint34
+    400048: joint35
+    400050: joint36
+    400052: joint37
+    400054: joint38
+    400056: joint39
+    400058: joint40
+    400060: joint41
+    400062: joint42
+    400064: joint43
+    400066: joint44
+    400068: left_arm
+    400070: left_arm_p
+    400072: left_ball
+    400074: left_feet
+    400076: left_fin
+    400078: left_leg
+    400080: leftbina
+    400082: leftbinaa
+    400084: leftbinca
+    400086: leftfinb
+    400088: leftfinbc
+    400090: leftfinc
+    400092: nurbsCircle15
+    400094: nurbsCircle16
+    400096: pleft_arm
+    400098: pleft_hand
+    400100: pLeft_leg
+    400102: pright_leg
+    400104: right_arm
+    400106: right_ball
+    400108: right_foot
+    400110: right_hand
+    400112: right_leg
+    400114: //RootNode
+    7400000: gunsVEL2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

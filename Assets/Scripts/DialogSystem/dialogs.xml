@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Dialogs>
+	<Dialog name = "NES">
+		<Lines>
+			<Line>"Hola soy Un Nintendo"</Line>
+			<Line>"Te vas a morir"</Line>
+			<Line>":)"</Line>
+			<Line>"Yep más texto inutil"</Line>
+		</Lines>
+	</Dialog>
+
+</Dialogs>

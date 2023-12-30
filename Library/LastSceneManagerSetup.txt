@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/scenes/demo2020Jan.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

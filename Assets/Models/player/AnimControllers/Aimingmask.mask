@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Aimingmask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: cRobot
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/column
+    m_Weight: 1
+  - m_Path: Hips/column/clav
+    m_Weight: 1
+  - m_Path: Hips/column/clav/head
+    m_Weight: 1
+  - m_Path: Hips/column/clav/head/f_head
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/left_fin
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/left_fin/leftbinaa
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/leftbina
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/leftbina/leftfinb
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/leftbina/leftfinb/leftfinbc
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/leftfinc
+    m_Weight: 1
+  - m_Path: Hips/column/clav/left_arm/pleft_arm/pleft_hand/leftfinc/leftbinca
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/finga
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/finga/fingaa
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/fingb
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/fingb/fingba
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/fingb/fingba/fingbb
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/fingc
+    m_Weight: 1
+  - m_Path: Hips/column/clav/right_arm/left_arm_p/right_hand/fingc/fingcb
+    m_Weight: 1
+  - m_Path: Hips/left_leg
+    m_Weight: 0
+  - m_Path: Hips/left_leg/pLeft_leg
+    m_Weight: 0
+  - m_Path: Hips/left_leg/pLeft_leg/left_feet
+    m_Weight: 0
+  - m_Path: Hips/left_leg/pLeft_leg/left_feet/left_ball
+    m_Weight: 0
+  - m_Path: Hips/right_leg
+    m_Weight: 0
+  - m_Path: Hips/right_leg/pright_leg
+    m_Weight: 0
+  - m_Path: Hips/right_leg/pright_leg/right_foot
+    m_Weight: 0
+  - m_Path: Hips/right_leg/pright_leg/right_foot/right_ball
+    m_Weight: 0
+  - m_Path: nurbsCircle15
+    m_Weight: 1

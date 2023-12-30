@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1546840037739108}
+  m_IsPrefabParent: 1
+--- !u!1 &1546840037739108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4082950318584038}
+  - component: {fileID: 114354591164207660}
+  - component: {fileID: 114293501964200004}
+  m_Layer: 0
+  m_Name: Levelbuilder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4082950318584038
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546840037739108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114293501964200004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546840037739108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee379bf5b4aac2b4a9f123cfdb5bbba9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  navmeshes: []
+--- !u!114 &114354591164207660
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1546840037739108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe07a640e7f6e743b2816e2dae4584f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startRoomprefab: {fileID: 114418427171899548, guid: 054813775939741449cea2a2954c863f,
+    type: 2}
+  endRoomPrefab: {fileID: 114413586432499980, guid: b40bca423005afc4f93f5f902e828eb2,
+    type: 2}
+  startRoom: {fileID: 0}
+  endRoom: {fileID: 0}
+  iterationRange: {x: 3, y: 3}
+  roomsPrefabs:
+  - {fileID: 114415543183810272, guid: 21f8aefa3504d1c45913cffab3868f4a, type: 2}
+  availableDoorways: []
+  placedRooms: []
+  colidingRooms: []
+  roomLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  PLNAV: {fileID: 0}
+  showdebugcolliders: 0
+  boundoffset: -0.16
+  canbepaused: 0

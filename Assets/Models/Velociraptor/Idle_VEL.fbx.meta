@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 363cee0c9bf764aeca61bd6087e537b7
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: clav
+  - first:
+      1: 100002
+    second: column
+  - first:
+      1: 100004
+    second: f_head
+  - first:
+      1: 100006
+    second: finga
+  - first:
+      1: 100008
+    second: fingaa
+  - first:
+      1: 100010
+    second: fingb
+  - first:
+      1: 100012
+    second: fingba
+  - first:
+      1: 100014
+    second: fingbb
+  - first:
+      1: 100016
+    second: fingc
+  - first:
+      1: 100018
+    second: fingcb
+  - first:
+      1: 100020
+    second: head
+  - first:
+      1: 100022
+    second: Hips
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: joint23
+  - first:
+      1: 100028
+    second: joint24
+  - first:
+      1: 100030
+    second: joint25
+  - first:
+      1: 100032
+    second: joint26
+  - first:
+      1: 100034
+    second: joint27
+  - first:
+      1: 100036
+    second: joint28
+  - first:
+      1: 100038
+    second: left_arm
+  - first:
+      1: 100040
+    second: left_arm_p
+  - first:
+      1: 100042
+    second: left_ball
+  - first:
+      1: 100044
+    second: left_feet
+  - first:
+      1: 100046
+    second: left_fin
+  - first:
+      1: 100048
+    second: left_leg
+  - first:
+      1: 100050
+    second: leftbina
+  - first:
+      1: 100052
+    second: leftbinaa
+  - first:
+      1: 100054
+    second: leftbinca
+  - first:
+      1: 100056
+    second: leftfinb
+  - first:
+      1: 100058
+    second: leftfinbc
+  - first:
+      1: 100060
+    second: leftfinc
+  - first:
+      1: 100062
+    second: nurbsCircle15
+  - first:
+      1: 100064
+    second: pleft_arm
+  - first:
+      1: 100066
+    second: pleft_hand
+  - first:
+      1: 100068
+    second: pLeft_leg
+  - first:
+      1: 100070
+    second: polySurface3
+  - first:
+      1: 100072
+    second: pright_leg
+  - first:
+      1: 100074
+    second: right_arm
+  - first:
+      1: 100076
+    second: right_ball
+  - first:
+      1: 100078
+    second: right_foot
+  - first:
+      1: 100080
+    second: right_hand
+  - first:
+      1: 100082
+    second: right_leg
+  - first:
+      4: 400000
+    second: clav
+  - first:
+      4: 400002
+    second: column
+  - first:
+      4: 400004
+    second: f_head
+  - first:
+      4: 400006
+    second: finga
+  - first:
+      4: 400008
+    second: fingaa
+  - first:
+      4: 400010
+    second: fingb
+  - first:
+      4: 400012
+    second: fingba
+  - first:
+      4: 400014
+    second: fingbb
+  - first:
+      4: 400016
+    second: fingc
+  - first:
+      4: 400018
+    second: fingcb
+  - first:
+      4: 400020
+    second: head
+  - first:
+      4: 400022
+    second: Hips
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: joint23
+  - first:
+      4: 400028
+    second: joint24
+  - first:
+      4: 400030
+    second: joint25
+  - first:
+      4: 400032
+    second: joint26
+  - first:
+      4: 400034
+    second: joint27
+  - first:
+      4: 400036
+    second: joint28
+  - first:
+      4: 400038
+    second: left_arm
+  - first:
+      4: 400040
+    second: left_arm_p
+  - first:
+      4: 400042
+    second: left_ball
+  - first:
+      4: 400044
+    second: left_feet
+  - first:
+      4: 400046
+    second: left_fin
+  - first:
+      4: 400048
+    second: left_leg
+  - first:
+      4: 400050
+    second: leftbina
+  - first:
+      4: 400052
+    second: leftbinaa
+  - first:
+      4: 400054
+    second: leftbinca
+  - first:
+      4: 400056
+    second: leftfinb
+  - first:
+      4: 400058
+    second: leftfinbc
+  - first:
+      4: 400060
+    second: leftfinc
+  - first:
+      4: 400062
+    second: nurbsCircle15
+  - first:
+      4: 400064
+    second: pleft_arm
+  - first:
+      4: 400066
+    second: pleft_hand
+  - first:
+      4: 400068
+    second: pLeft_leg
+  - first:
+      4: 400070
+    second: polySurface3
+  - first:
+      4: 400072
+    second: pright_leg
+  - first:
+      4: 400074
+    second: right_arm
+  - first:
+      4: 400076
+    second: right_ball
+  - first:
+      4: 400078
+    second: right_foot
+  - first:
+      4: 400080
+    second: right_hand
+  - first:
+      4: 400082
+    second: right_leg
+  - first:
+      21: 2100000
+    second: lambert1
+  - first:
+      43: 4300000
+    second: polySurface3
+  - first:
+      74: 7400000
+    second: VELOCIRAPTORcHARACTERSETCopy
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: polySurface3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: VELOCIRAPTORcHARACTERSETCopy
+      takeName: VELOCIRAPTORcHARACTERSETCopy
+      internalID: 7400000
+      firstFrame: 20
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Idle_VEL(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle15
+      parentName: Idle_VEL(Clone)
+      position: {x: -0.011950904, y: 0.820958, z: 0.11151634}
+      rotation: {x: 0.6389787, y: -0, z: -0, w: 0.7692244}
+      scale: {x: 0.49900317, y: 0.49900317, z: 0.49900317}
+    - name: polySurface3
+      parentName: Idle_VEL(Clone)
+      position: {x: -0.99855024, y: 0.21781285, z: 3.3493147}
+      rotation: {x: 0, y: -0.041248627, z: -0, w: 0.9991489}
+      scale: {x: 0.9793072, y: 0.9793072, z: 0.9793072}
+    - name: Hips
+      parentName: Idle_VEL(Clone)
+      position: {x: -0.0005548459, y: 0.6987068, z: 0.12750167}
+      rotation: {x: 0.2690793, y: -0.11807643, z: 0.32521093, w: 0.89882827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_leg
+      parentName: Hips
+      position: {x: -0.08715599, y: 0.006190369, z: -1.067353e-17}
+      rotation: {x: 0.15051726, y: 0.30022722, z: 0.3089879, w: 0.88979477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pLeft_leg
+      parentName: left_leg
+      position: {x: -0.37508667, y: -1.4210854e-16, z: -3.2798664e-17}
+      rotation: {x: 0.026866162, y: 0.14316273, z: -0.0052974657, w: 0.9893203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_feet
+      parentName: pLeft_leg
+      position: {x: -0.4724587, y: -0.00231889, z: 0.010217628}
+      rotation: {x: -0.09684904, y: -0.85069364, z: 0.13857508, w: 0.4977325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_ball
+      parentName: left_feet
+      position: {x: -0.032427695, y: 0.019783497, z: -0.19829814}
+      rotation: {x: 0.6019834, y: 0.7985086, z: -1.2033697e-17, w: -8.57554e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: column
+      parentName: Hips
+      position: {x: 0.13406405, y: 0.1633811, z: -0.022979856}
+      rotation: {x: -0.08495906, y: -0.026599288, z: 0.8961159, w: -0.43479973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: clav
+      parentName: column
+      position: {x: -0.19285138, y: -0.0016455059, z: -0.059318732}
+      rotation: {x: 0.09789341, y: 0.17961554, z: 0.4585309, w: 0.86481476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_arm
+      parentName: clav
+      position: {x: -0.022836396, y: -0.23247196, z: -0.09193824}
+      rotation: {x: -0.12970592, y: -0.5723939, z: 0.5009494, w: 0.63607496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pleft_arm
+      parentName: left_arm
+      position: {x: -0.23030506, y: -0.10570034, z: -0.052320912}
+      rotation: {x: 0.48071104, y: 0.18021898, z: -0.72298, w: 0.46231806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pleft_hand
+      parentName: pleft_arm
+      position: {x: -0.22663997, y: -0.07720884, z: 0.07287619}
+      rotation: {x: -0.20124824, y: 0.35375804, z: 0.4646864, w: 0.7863975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_fin
+      parentName: pleft_hand
+      position: {x: -0.10520095, y: 0.053717274, z: -0.049997877}
+      rotation: {x: 0, y: -0, z: -0.10535081, w: 0.99443513}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftbinaa
+      parentName: left_fin
+      position: {x: -0.115667455, y: -0.014979564, z: -0.012642564}
+      rotation: {x: 0, y: -0, z: -0.06711024, w: 0.9977456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftbina
+      parentName: pleft_hand
+      position: {x: -0.090959884, y: 0.0907777, z: -0.010121046}
+      rotation: {x: -0.03634743, y: -0.111562245, z: -0.56905556, w: 0.81388485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftfinb
+      parentName: leftbina
+      position: {x: -0.093122624, y: -0.045970086, z: 0.017405175}
+      rotation: {x: 0.0041858167, y: -0.021632612, z: 0.28603148, w: 0.9579669}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftfinbc
+      parentName: leftfinb
+      position: {x: -0.041129008, y: -0.03635106, z: 0.019688481}
+      rotation: {x: 0, y: -0, z: -0.03747028, w: 0.99929774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftfinc
+      parentName: pleft_hand
+      position: {x: -0.10245596, y: 0.09119667, z: 0.04388103}
+      rotation: {x: 0.71085286, y: 0.5920345, z: 0.045512564, w: -0.3769774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftbinca
+      parentName: leftfinc
+      position: {x: -0.036646545, y: -0.09532605, z: -0.00619313}
+      rotation: {x: 0.71085286, y: 0.5920345, z: 0.045512564, w: 0.3769774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: clav
+      position: {x: -0.07369321, y: 0.10781927, z: -0.1582242}
+      rotation: {x: -0.069955535, y: -0.13108373, z: -0.46941814, w: 0.87038493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: f_head
+      parentName: head
+      position: {x: -0.34584618, y: 0.020645076, z: 0.13729104}
+      rotation: {x: -0.04092516, y: 0.09352638, z: 0.501641, w: 0.859031}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint23
+      parentName: f_head
+      position: {x: -0.07818661, y: 0.15063582, z: -0.4597224}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint27
+      parentName: f_head
+      position: {x: 0.072732024, y: -0.107995234, z: -0.10704002}
+      rotation: {x: 0.22417267, y: -0.23740435, z: 0.22276974, w: 0.9185638}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint28
+      parentName: joint27
+      position: {x: -0.19612914, y: -0.021980213, z: -0.31292444}
+      rotation: {x: -0.23858508, y: 0.2322682, z: -0.217051, w: 0.9176151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_arm
+      parentName: clav
+      position: {x: 0.21446235, y: -0.07921978, z: -0.09254971}
+      rotation: {x: 0.94934154, y: 0.17567644, z: 0.20129219, w: 0.16543826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_arm_p
+      parentName: right_arm
+      position: {x: 0.19918497, y: 0.14880906, z: 0.09010141}
+      rotation: {x: 0.331016, y: -0.35829604, z: -0.5099782, w: 0.7085017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hand
+      parentName: left_arm_p
+      position: {x: 0.2350592, y: 0.06803957, z: -0.0015716171}
+      rotation: {x: -0.1953072, y: 0.22073977, z: 0.7112654, w: 0.63814634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: finga
+      parentName: right_hand
+      position: {x: 0.19052485, y: -0.09247463, z: 0.038174607}
+      rotation: {x: -0.0181808, y: 0.022489417, z: -0.18793404, w: 0.98175585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingaa
+      parentName: finga
+      position: {x: 0.07990565, y: 0.065242, z: 0.0099065555}
+      rotation: {x: 0, y: -0, z: -0.06711024, w: 0.9977456}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingb
+      parentName: right_hand
+      position: {x: 0.17609763, y: -0.11163158, z: -0.028010547}
+      rotation: {x: 0.021420754, y: -0.017400974, z: -0.62724376, w: 0.77833384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingba
+      parentName: fingb
+      position: {x: 0.05728197, y: 0.0565351, z: -0.01493864}
+      rotation: {x: 0.011756134, y: -0.11064564, z: 0.10468746, w: 0.98826104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingbb
+      parentName: fingba
+      position: {x: 0.015170336, y: 0.022549424, z: -0.0018729632}
+      rotation: {x: 0, y: -0, z: -0.03747028, w: 0.99929774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingc
+      parentName: right_hand
+      position: {x: 0.13744214, y: -0.08558728, z: -0.076391526}
+      rotation: {x: 0.71085286, y: 0.5920345, z: 0.045512564, w: -0.3769774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fingcb
+      parentName: fingc
+      position: {x: 0.028164456, y: 0.053562302, z: -0.009696357}
+      rotation: {x: 0.71085286, y: 0.5920345, z: 0.045512564, w: 0.3769774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_leg
+      parentName: Hips
+      position: {x: 0.029101329, y: -0.08238716, z: 3.5638845e-18}
+      rotation: {x: -0.5026647, y: 0.7992643, z: -0.3206937, w: -0.07523475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pright_leg
+      parentName: right_leg
+      position: {x: 0.38150018, y: 0.0086158775, z: -0.00055244204}
+      rotation: {x: 0.025076706, y: 0.1289003, z: -0.0003701746, w: 0.9913404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_foot
+      parentName: pright_leg
+      position: {x: 0.4686461, y: 0.011423163, z: -0.027585331}
+      rotation: {x: 0.12197985, y: -0.8215938, z: 0.022162525, w: 0.5564292}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_ball
+      parentName: right_foot
+      position: {x: 0.030795822, y: -0.018501967, z: 0.21060687}
+      rotation: {x: 0.6019834, y: 0.7985086, z: -8.57554e-17, w: 1.2033697e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint24
+      parentName: Hips
+      position: {x: -0.4422058, y: -0.5009537, z: 0.14030536}
+      rotation: {x: 0.077702254, y: -0.044807974, z: 0.03609525, w: 0.9953149}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint25
+      parentName: joint24
+      position: {x: -0.3640658, y: -0.4515685, z: 0.23928617}
+      rotation: {x: 0.4913846, y: 0.5491615, z: 0.15245867, w: 0.6585736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint26
+      parentName: joint25
+      position: {x: -0.36584055, y: -0.06799103, z: -0.04925328}
+      rotation: {x: -0.51459944, y: -0.5537596, z: -0.39784378, w: 0.51986355}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

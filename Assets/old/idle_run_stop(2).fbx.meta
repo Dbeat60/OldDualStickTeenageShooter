@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: b46a10e5290ff0342becbd9623a532b6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: box1
+    100002: box3
+    100004: cRobot
+    100006: //RootNode
+    100008: ikHandle1
+    100010: ikHandle2
+    100012: ikHandle3
+    100014: ikHandle4
+    100016: ikHandle5
+    100018: ikHandle6
+    100020: ikHandle7
+    100022: joint1
+    100024: joint10
+    100026: joint11
+    100028: joint12
+    100030: joint13
+    100032: joint14
+    100034: joint15
+    100036: joint16
+    100038: joint17
+    100040: joint18
+    100042: joint19
+    100044: joint2
+    100046: joint20
+    100048: joint21
+    100050: joint22
+    100052: joint23
+    100054: joint24
+    100056: joint25
+    100058: joint26
+    100060: joint27
+    100062: joint28
+    100064: joint29
+    100066: joint3
+    100068: joint30
+    100070: joint31
+    100072: joint32
+    100074: joint33
+    100076: joint4
+    100078: joint5
+    100080: joint6
+    100082: joint7
+    100084: joint8
+    100086: joint9
+    100088: nurbsCircle11
+    100090: nurbsCircle12
+    100092: nurbsCircle13
+    100094: nurbsCircle14
+    100096: nurbsCircle15
+    400000: box1
+    400002: box3
+    400004: cRobot
+    400006: //RootNode
+    400008: ikHandle1
+    400010: ikHandle2
+    400012: ikHandle3
+    400014: ikHandle4
+    400016: ikHandle5
+    400018: ikHandle6
+    400020: ikHandle7
+    400022: joint1
+    400024: joint10
+    400026: joint11
+    400028: joint12
+    400030: joint13
+    400032: joint14
+    400034: joint15
+    400036: joint16
+    400038: joint17
+    400040: joint18
+    400042: joint19
+    400044: joint2
+    400046: joint20
+    400048: joint21
+    400050: joint22
+    400052: joint23
+    400054: joint24
+    400056: joint25
+    400058: joint26
+    400060: joint27
+    400062: joint28
+    400064: joint29
+    400066: joint3
+    400068: joint30
+    400070: joint31
+    400072: joint32
+    400074: joint33
+    400076: joint4
+    400078: joint5
+    400080: joint6
+    400082: joint7
+    400084: joint8
+    400086: joint9
+    400088: nurbsCircle11
+    400090: nurbsCircle12
+    400092: nurbsCircle13
+    400094: nurbsCircle14
+    400096: nurbsCircle15
+    2100000: lambert1
+    4300000: cRobot
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cRobot
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: idle_run_stop(2)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: box1
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.18200111, y: 0.0326975, z: 0.19626968}
+      rotation: {x: 0, y: -0.121172436, z: -0, w: 0.9926315}
+      scale: {x: 7.0928454, y: 2.9052668, z: 15.669538}
+    - name: box3
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.207694, y: 0.053833306, z: -0.2044045}
+      rotation: {x: 0, y: 0.105329834, z: -0, w: 0.99443734}
+      scale: {x: 7.0511537, y: 3.781762, z: 16.531918}
+    - name: cRobot
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.05239153, y: -0.3057579, z: 0}
+      rotation: {x: 0, y: 0.6937786, z: -0, w: 0.7201884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle1
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.18724403, y: 0.049956575, z: 0.20098752}
+      rotation: {x: 0.03201636, y: 0.037393447, z: -0.7610171, w: 0.64686143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle2
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.18826512, y: 0.05337824, z: -0.19840261}
+      rotation: {x: 0.6477827, y: 0.7602124, z: 0.037552174, w: -0.032318722}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle3
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.24163228, y: 0.0054221903, z: 0.40274128}
+      rotation: {x: 0.08336637, y: -0.0017907267, z: -0.7968772, w: 0.59835905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle4
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.21018934, y: 0.017046457, z: -0.001009638}
+      rotation: {x: 0.5964348, y: 0.80202204, z: 0.031825803, w: -0.0036665525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle5
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.24163228, y: 0.0054221908, z: 0.40274128}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle6
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.18724403, y: 0.049956594, z: 0.20098752}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ikHandle7
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.18826444, y: 0.053382777, z: -0.19840246}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle11
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.002484417, y: 0, z: 0.07125614}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle12
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.002484417, y: 0, z: 0.07125614}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle13
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.16030256, y: 0.5137288, z: 0.4909551}
+      rotation: {x: 0, y: -1.3877788e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle14
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: 0.16854595, y: 0.5137288, z: 0.07476248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle15
+      parentName: idle_run_stop(2)(Clone)
+      position: {x: -0.018940091, y: 0.8767809, z: 0.026333243}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.49900317, y: 0.49900317, z: 0.49900317}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

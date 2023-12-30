@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 8c189ac2eaa8d49b4b66bec8c2a64b47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: box1
+    100002: box3
+    100004: clav
+    100006: column
+    100008: //RootNode
+    100010: f_head
+    100012: finga
+    100014: fingaa
+    100016: fingb
+    100018: fingba
+    100020: fingbb
+    100022: fingc
+    100024: fingcb
+    100026: head
+    100028: Hips
+    100030: joint23
+    100032: joint24
+    100034: joint25
+    100036: joint26
+    100038: joint27
+    100040: joint28
+    100042: left_arm
+    100044: left_arm_p
+    100046: left_ball
+    100048: left_feet
+    100050: left_fin
+    100052: left_leg
+    100054: leftbina
+    100056: leftbinaa
+    100058: leftbinca
+    100060: leftfinb
+    100062: leftfinbc
+    100064: leftfinc
+    100066: nurbsCircle15
+    100068: pleft_arm
+    100070: pleft_hand
+    100072: pLeft_leg
+    100074: pright_leg
+    100076: right_arm
+    100078: right_ball
+    100080: right_foot
+    100082: right_hand
+    100084: right_leg
+    400000: box1
+    400002: box3
+    400004: clav
+    400006: column
+    400008: //RootNode
+    400010: f_head
+    400012: finga
+    400014: fingaa
+    400016: fingb
+    400018: fingba
+    400020: fingbb
+    400022: fingc
+    400024: fingcb
+    400026: head
+    400028: Hips
+    400030: joint23
+    400032: joint24
+    400034: joint25
+    400036: joint26
+    400038: joint27
+    400040: joint28
+    400042: left_arm
+    400044: left_arm_p
+    400046: left_ball
+    400048: left_feet
+    400050: left_fin
+    400052: left_leg
+    400054: leftbina
+    400056: leftbinaa
+    400058: leftbinca
+    400060: leftfinb
+    400062: leftfinbc
+    400064: leftfinc
+    400066: nurbsCircle15
+    400068: pleft_arm
+    400070: pleft_hand
+    400072: pLeft_leg
+    400074: pright_leg
+    400076: right_arm
+    400078: right_ball
+    400080: right_foot
+    400082: right_hand
+    400084: right_leg
+    7400000: gunsVELCOPY
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

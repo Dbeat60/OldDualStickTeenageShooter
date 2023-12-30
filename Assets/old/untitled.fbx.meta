@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b145ca461f824b6478263fe636192b9e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: cRobot
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint11_end
+    100012: joint12
+    100014: joint13
+    100016: joint13_end
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint16_end
+    100026: joint17
+    100028: joint18
+    100030: joint18_end
+    100032: joint19
+    100034: joint19_end
+    100036: joint2
+    100038: joint20
+    100040: joint21
+    100042: joint22
+    100044: joint23
+    100046: joint24
+    100048: joint24_end
+    100050: joint25
+    100052: joint26
+    100054: joint27
+    100056: joint27_end
+    100058: joint28
+    100060: joint29
+    100062: joint29_end
+    100064: joint3
+    100066: joint30
+    100068: joint31
+    100070: joint32
+    100072: joint33
+    100074: joint33_end
+    100076: joint4
+    100078: joint5
+    100080: joint6
+    100082: joint7
+    100084: joint8
+    100086: joint9
+    100088: nurbsCircle11
+    100090: nurbsCircle15
+    100092: //RootNode
+    400000: Armature
+    400002: cRobot
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint11_end
+    400012: joint12
+    400014: joint13
+    400016: joint13_end
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint16_end
+    400026: joint17
+    400028: joint18
+    400030: joint18_end
+    400032: joint19
+    400034: joint19_end
+    400036: joint2
+    400038: joint20
+    400040: joint21
+    400042: joint22
+    400044: joint23
+    400046: joint24
+    400048: joint24_end
+    400050: joint25
+    400052: joint26
+    400054: joint27
+    400056: joint27_end
+    400058: joint28
+    400060: joint29
+    400062: joint29_end
+    400064: joint3
+    400066: joint30
+    400068: joint31
+    400070: joint32
+    400072: joint33
+    400074: joint33_end
+    400076: joint4
+    400078: joint5
+    400080: joint6
+    400082: joint7
+    400084: joint8
+    400086: joint9
+    400088: nurbsCircle11
+    400090: nurbsCircle15
+    400092: //RootNode
+    2100000: lambert1
+    4300000: cRobot
+    7400000: Armature|Armature|Take 001|BaseLayer
+    7400002: Armature|nurbsCircle11|Take 001|BaseLayer
+    7400004: Armature|nurbsCircle15|Take 001|BaseLayer
+    7400006: nurbsCircle15|nurbsCircle11|Take 001|BaseLayer
+    7400008: nurbsCircle15|nurbsCircle15|Take 001|BaseLayer
+    7400010: nurbsCircle11|nurbsCircle11|Take 001|BaseLayer
+    7400012: nurbsCircle11|nurbsCircle15|Take 001|BaseLayer
+    9500000: //RootNode
+    13700000: cRobot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Dialogs>
+	<Dialog name = "Jorge P">
+		<Lines>
+			<Line>"hola soy jorge"</Line>
+			<Line>"como te va?"</Line>
+			<Line>"me gustan los juegos"</Line>
+			<Line>"adios"</Line>
+		</Lines>
+	</Dialog>
+
+	<Dialog name = "Dany">
+		<Lines>
+			<Line>"hola soy Dany"</Line>
+			<Line>"como te va?"</Line>
+			<Line>"me gustan los juegos"</Line>
+			<Line>"adios"</Line>
+		</Lines>
+	</Dialog>
+
+	<Dialog name = "Laura">
+		<Lines>
+			<Line>"hola soy Laura"</Line>
+			<Line>"como te va?"</Line>
+			<Line>"me gustan los juegos"</Line>
+			<Line>"adios"</Line>
+		</Lines>
+	</Dialog>
+
+</Dialogs>

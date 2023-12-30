@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 195716411c3f4d849b1fc45c12ad0cb9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: clav
+    100004: column
+    100006: f_head
+    100008: finga
+    100010: fingaa
+    100012: fingb
+    100014: fingba
+    100016: fingbb
+    100018: fingc
+    100020: fingcb
+    100022: head
+    100024: Hips
+    100026: left_arm
+    100028: left_arm_p
+    100030: left_ball
+    100032: left_feet
+    100034: left_fin
+    100036: left_leg
+    100038: leftbina
+    100040: leftbinaa
+    100042: leftbinca
+    100044: leftfinb
+    100046: leftfinbc
+    100048: leftfinc
+    100050: nurbsCircle15
+    100052: pleft_arm
+    100054: pleft_hand
+    100056: pLeft_leg
+    100058: pright_leg
+    100060: right_arm
+    100062: right_ball
+    100064: right_foot
+    100066: right_hand
+    100068: right_leg
+    400000: //RootNode
+    400002: clav
+    400004: column
+    400006: f_head
+    400008: finga
+    400010: fingaa
+    400012: fingb
+    400014: fingba
+    400016: fingbb
+    400018: fingc
+    400020: fingcb
+    400022: head
+    400024: Hips
+    400026: left_arm
+    400028: left_arm_p
+    400030: left_ball
+    400032: left_feet
+    400034: left_fin
+    400036: left_leg
+    400038: leftbina
+    400040: leftbinaa
+    400042: leftbinca
+    400044: leftfinb
+    400046: leftfinbc
+    400048: leftfinc
+    400050: nurbsCircle15
+    400052: pleft_arm
+    400054: pleft_hand
+    400056: pLeft_leg
+    400058: pright_leg
+    400060: right_arm
+    400062: right_ball
+    400064: right_foot
+    400066: right_hand
+    400068: right_leg
+    7400000: girl4bake
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: girl4bake
+      takeName: girl4bake
+      firstFrame: 102
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
